@@ -81,7 +81,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/system/lib/libsec-ril.so:system/lib/libsec-ril.so \
     $(LOCAL_PATH)/system/lib/libsecril-client.so:system/lib/libsecril-client.so \
     $(LOCAL_PATH)/system/etc/AT/manuf_id.cfg:system/etc/AT/manuf_id.cfg \
-    $(LOCAL_PATH)/system/etc/AT/model_id.cfg:system/etc/AT/model_id.cfg \
+    $(LOCAL_PATH)/system/etc/AT/model_idP.cfg:system/etc/AT/model_id.cfg \
     $(LOCAL_PATH)/system/etc/AT/system_id.cfg:system/etc/AT/system_id.cfg
 
 # Bluetooth
